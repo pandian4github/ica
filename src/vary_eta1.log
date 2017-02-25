@@ -1,0 +1,339 @@
+Running driver for source indices:      1     3     4
+
+21-Feb-2017 23:37:23
+21-Feb-2017 23:37:23
+---------------------------------- Learning rate 0.001000 -------------------------------
+21-Feb-2017 23:37:23
+----------------------- Trial 1 ------------------------
+Norm obtained: 6.735170 Permuted norm obtained: 5.962319
+21-Feb-2017 23:40:24
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.046547 Permuted norm obtained: 6.046547
+21-Feb-2017 23:43:25
+----------------------- Trial 3 ------------------------
+Norm obtained: 6.120089 Permuted norm obtained: 6.120089
+21-Feb-2017 23:46:29
+----------------------- Trial 4 ------------------------
+Norm obtained: 5.987312 Permuted norm obtained: 5.987312
+21-Feb-2017 23:49:20
+----------------------- Trial 5 ------------------------
+Norm obtained: 5.987278 Permuted norm obtained: 5.987278
+21-Feb-2017 23:52:21
+----------------------- Trial 6 ------------------------
+Norm obtained: 6.618341 Permuted norm obtained: 6.059233
+21-Feb-2017 23:55:22
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.705119 Permuted norm obtained: 5.971925
+21-Feb-2017 23:58:25
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.611633 Permuted norm obtained: 6.049601
+22-Feb-2017 00:01:33
+----------------------- Trial 9 ------------------------
+Norm obtained: 5.966751 Permuted norm obtained: 6.033660
+22-Feb-2017 00:04:37
+----------------------- Trial 10 ------------------------
+Norm obtained: 6.647194 Permuted norm obtained: 5.997640
+Average norm: 6.342543 Average permuted norm: 6.021560
+22-Feb-2017 00:07:33
+---------------------------------- Learning rate 0.002000 -------------------------------
+22-Feb-2017 00:07:33
+----------------------- Trial 1 ------------------------
+Norm obtained: 6.577567 Permuted norm obtained: 5.992216
+22-Feb-2017 00:10:32
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.263317 Permuted norm obtained: 5.967628
+22-Feb-2017 00:13:36
+----------------------- Trial 3 ------------------------
+Norm obtained: 6.055674 Permuted norm obtained: 6.055674
+22-Feb-2017 00:16:37
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.008570 Permuted norm obtained: 5.964234
+22-Feb-2017 00:19:39
+----------------------- Trial 5 ------------------------
+Norm obtained: 5.948489 Permuted norm obtained: 5.979853
+22-Feb-2017 00:22:40
+----------------------- Trial 6 ------------------------
+Norm obtained: 5.963515 Permuted norm obtained: 5.995903
+22-Feb-2017 00:25:42
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.635305 Permuted norm obtained: 6.017968
+22-Feb-2017 00:28:40
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.040740 Permuted norm obtained: 6.040740
+22-Feb-2017 00:31:47
+----------------------- Trial 9 ------------------------
+Norm obtained: 6.773718 Permuted norm obtained: 6.030766
+22-Feb-2017 00:34:57
+----------------------- Trial 10 ------------------------
+Norm obtained: 5.945089 Permuted norm obtained: 5.979308
+Average norm: 6.221198 Average permuted norm: 6.002429
+22-Feb-2017 00:37:58
+---------------------------------- Learning rate 0.003000 -------------------------------
+22-Feb-2017 00:37:58
+----------------------- Trial 1 ------------------------
+Norm obtained: 6.551424 Permuted norm obtained: 5.974174
+22-Feb-2017 00:41:02
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.540811 Permuted norm obtained: 5.961818
+22-Feb-2017 00:44:03
+----------------------- Trial 3 ------------------------
+Norm obtained: 5.981851 Permuted norm obtained: 5.981851
+22-Feb-2017 00:47:06
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.156807 Permuted norm obtained: 6.015782
+22-Feb-2017 00:50:08
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.545982 Permuted norm obtained: 5.974157
+22-Feb-2017 00:53:10
+----------------------- Trial 6 ------------------------
+Norm obtained: 6.156449 Permuted norm obtained: 6.156449
+22-Feb-2017 00:56:13
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.216663 Permuted norm obtained: 6.216663
+22-Feb-2017 00:59:15
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.678906 Permuted norm obtained: 5.964250
+22-Feb-2017 01:02:15
+----------------------- Trial 9 ------------------------
+Norm obtained: 5.949743 Permuted norm obtained: 5.949743
+22-Feb-2017 01:05:16
+----------------------- Trial 10 ------------------------
+Norm obtained: 6.818849 Permuted norm obtained: 6.008734
+Average norm: 6.359749 Average permuted norm: 6.020362
+22-Feb-2017 01:08:12
+---------------------------------- Learning rate 0.004000 -------------------------------
+22-Feb-2017 01:08:12
+----------------------- Trial 1 ------------------------
+Norm obtained: 5.975839 Permuted norm obtained: 6.048894
+22-Feb-2017 01:11:17
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.307576 Permuted norm obtained: 6.137839
+22-Feb-2017 01:14:15
+----------------------- Trial 3 ------------------------
+Norm obtained: 6.635620 Permuted norm obtained: 5.965494
+22-Feb-2017 01:17:18
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.548812 Permuted norm obtained: 5.944766
+22-Feb-2017 01:20:21
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.180199 Permuted norm obtained: 6.003122
+22-Feb-2017 01:23:20
+----------------------- Trial 6 ------------------------
+Norm obtained: 6.043952 Permuted norm obtained: 5.952467
+22-Feb-2017 01:26:19
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.814540 Permuted norm obtained: 6.027946
+22-Feb-2017 01:29:19
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.641961 Permuted norm obtained: 5.949574
+22-Feb-2017 01:32:20
+----------------------- Trial 9 ------------------------
+Norm obtained: 6.182446 Permuted norm obtained: 6.182446
+22-Feb-2017 01:35:21
+----------------------- Trial 10 ------------------------
+Norm obtained: 5.950072 Permuted norm obtained: 5.950072
+Average norm: 6.328102 Average permuted norm: 6.016262
+22-Feb-2017 01:38:22
+---------------------------------- Learning rate 0.005000 -------------------------------
+22-Feb-2017 01:38:22
+----------------------- Trial 1 ------------------------
+Norm obtained: 6.676999 Permuted norm obtained: 6.052382
+22-Feb-2017 01:41:22
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.237452 Permuted norm obtained: 6.237452
+22-Feb-2017 01:44:22
+----------------------- Trial 3 ------------------------
+Norm obtained: 6.531284 Permuted norm obtained: 5.996527
+22-Feb-2017 01:47:25
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.584311 Permuted norm obtained: 6.584311
+22-Feb-2017 01:50:30
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.433524 Permuted norm obtained: 5.991002
+22-Feb-2017 01:53:31
+----------------------- Trial 6 ------------------------
+Norm obtained: 6.153348 Permuted norm obtained: 6.153348
+22-Feb-2017 01:56:30
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.611325 Permuted norm obtained: 5.944896
+22-Feb-2017 01:59:32
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.024184 Permuted norm obtained: 5.945849
+22-Feb-2017 02:02:31
+----------------------- Trial 9 ------------------------
+Norm obtained: 5.950675 Permuted norm obtained: 5.950675
+22-Feb-2017 02:05:29
+----------------------- Trial 10 ------------------------
+Norm obtained: 6.799920 Permuted norm obtained: 6.025698
+Average norm: 6.400302 Average permuted norm: 6.088214
+22-Feb-2017 02:08:30
+---------------------------------- Learning rate 0.006000 -------------------------------
+22-Feb-2017 02:08:30
+----------------------- Trial 1 ------------------------
+Norm obtained: 5.960637 Permuted norm obtained: 5.955170
+22-Feb-2017 02:11:40
+----------------------- Trial 2 ------------------------
+Norm obtained: 5.966653 Permuted norm obtained: 5.966653
+22-Feb-2017 02:14:41
+----------------------- Trial 3 ------------------------
+Norm obtained: 6.776568 Permuted norm obtained: 6.776568
+22-Feb-2017 02:17:42
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.803961 Permuted norm obtained: 6.803961
+22-Feb-2017 02:20:41
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.414195 Permuted norm obtained: 6.414195
+22-Feb-2017 02:23:40
+----------------------- Trial 6 ------------------------
+Norm obtained: 6.232375 Permuted norm obtained: 6.232375
+22-Feb-2017 02:26:40
+----------------------- Trial 7 ------------------------
+Norm obtained: 5.949087 Permuted norm obtained: 5.981395
+22-Feb-2017 02:29:38
+----------------------- Trial 8 ------------------------
+Norm obtained: 5.980992 Permuted norm obtained: 5.980992
+22-Feb-2017 02:32:38
+----------------------- Trial 9 ------------------------
+Norm obtained: 6.707340 Permuted norm obtained: 5.946556
+22-Feb-2017 02:35:37
+----------------------- Trial 10 ------------------------
+Norm obtained: 6.618774 Permuted norm obtained: 5.966233
+Average norm: 6.341058 Average permuted norm: 6.202410
+22-Feb-2017 02:38:33
+---------------------------------- Learning rate 0.007000 -------------------------------
+22-Feb-2017 02:38:33
+----------------------- Trial 1 ------------------------
+Norm obtained: 5.996509 Permuted norm obtained: 5.996509
+22-Feb-2017 02:41:32
+----------------------- Trial 2 ------------------------
+Norm obtained: 5.994942 Permuted norm obtained: 5.994942
+22-Feb-2017 02:44:30
+----------------------- Trial 3 ------------------------
+Norm obtained: 6.410042 Permuted norm obtained: 6.044106
+22-Feb-2017 02:47:31
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.349656 Permuted norm obtained: 6.349656
+22-Feb-2017 02:50:27
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.755617 Permuted norm obtained: 6.755617
+22-Feb-2017 02:53:27
+----------------------- Trial 6 ------------------------
+Norm obtained: 5.970114 Permuted norm obtained: 5.952126
+22-Feb-2017 02:56:25
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.657263 Permuted norm obtained: 5.959493
+22-Feb-2017 02:59:21
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.702214 Permuted norm obtained: 5.996451
+22-Feb-2017 03:02:19
+----------------------- Trial 9 ------------------------
+Norm obtained: 6.042623 Permuted norm obtained: 5.965489
+22-Feb-2017 03:05:13
+----------------------- Trial 10 ------------------------
+Norm obtained: 6.769335 Permuted norm obtained: 6.769335
+Average norm: 6.364831 Average permuted norm: 6.178372
+22-Feb-2017 03:08:15
+---------------------------------- Learning rate 0.008000 -------------------------------
+22-Feb-2017 03:08:15
+----------------------- Trial 1 ------------------------
+Norm obtained: 6.786827 Permuted norm obtained: 6.786827
+22-Feb-2017 03:11:14
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.135617 Permuted norm obtained: 6.039702
+22-Feb-2017 03:14:08
+----------------------- Trial 3 ------------------------
+Norm obtained: 5.974804 Permuted norm obtained: 5.974804
+22-Feb-2017 03:17:09
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.286642 Permuted norm obtained: 5.969188
+22-Feb-2017 03:20:08
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.691295 Permuted norm obtained: 5.963966
+22-Feb-2017 03:23:11
+----------------------- Trial 6 ------------------------
+Norm obtained: 6.772998 Permuted norm obtained: 6.037305
+22-Feb-2017 03:26:07
+----------------------- Trial 7 ------------------------
+Norm obtained: 5.993067 Permuted norm obtained: 6.037864
+22-Feb-2017 03:29:02
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.362624 Permuted norm obtained: 6.362624
+22-Feb-2017 03:32:00
+----------------------- Trial 9 ------------------------
+Norm obtained: 6.326456 Permuted norm obtained: 5.955046
+22-Feb-2017 03:34:57
+----------------------- Trial 10 ------------------------
+Norm obtained: 5.948939 Permuted norm obtained: 5.948939
+Average norm: 6.327927 Average permuted norm: 6.107626
+22-Feb-2017 03:37:53
+---------------------------------- Learning rate 0.009000 -------------------------------
+22-Feb-2017 03:37:53
+----------------------- Trial 1 ------------------------
+Norm obtained: 6.779281 Permuted norm obtained: 5.966730
+22-Feb-2017 03:40:47
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.744688 Permuted norm obtained: 6.004245
+22-Feb-2017 03:43:47
+----------------------- Trial 3 ------------------------
+Norm obtained: 6.240262 Permuted norm obtained: 6.240262
+22-Feb-2017 03:46:46
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.553935 Permuted norm obtained: 5.976282
+22-Feb-2017 03:49:44
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.081164 Permuted norm obtained: 5.966246
+22-Feb-2017 03:52:44
+----------------------- Trial 6 ------------------------
+Norm obtained: 6.607151 Permuted norm obtained: 5.999693
+22-Feb-2017 03:55:41
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.558820 Permuted norm obtained: 6.056467
+22-Feb-2017 03:58:38
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.812150 Permuted norm obtained: 6.009559
+22-Feb-2017 04:01:34
+----------------------- Trial 9 ------------------------
+Norm obtained: 5.985040 Permuted norm obtained: 5.985040
+22-Feb-2017 04:04:32
+----------------------- Trial 10 ------------------------
+Norm obtained: 6.070807 Permuted norm obtained: 6.070807
+Average norm: 6.443330 Average permuted norm: 6.027533
+22-Feb-2017 04:07:29
+---------------------------------- Learning rate 0.010000 -------------------------------
+22-Feb-2017 04:07:29
+----------------------- Trial 1 ------------------------
+Norm obtained: 6.038260 Permuted norm obtained: 6.038260
+22-Feb-2017 04:10:27
+----------------------- Trial 2 ------------------------
+Norm obtained: 6.811421 Permuted norm obtained: 6.811421
+22-Feb-2017 04:13:23
+----------------------- Trial 3 ------------------------
+Norm obtained: 5.964857 Permuted norm obtained: 5.964857
+22-Feb-2017 04:16:25
+----------------------- Trial 4 ------------------------
+Norm obtained: 6.814294 Permuted norm obtained: 6.814294
+22-Feb-2017 04:19:25
+----------------------- Trial 5 ------------------------
+Norm obtained: 6.015615 Permuted norm obtained: 6.015615
+22-Feb-2017 04:22:20
+----------------------- Trial 6 ------------------------
+Norm obtained: 5.965757 Permuted norm obtained: 6.040112
+22-Feb-2017 04:25:19
+----------------------- Trial 7 ------------------------
+Norm obtained: 6.281784 Permuted norm obtained: 5.960258
+22-Feb-2017 04:28:20
+----------------------- Trial 8 ------------------------
+Norm obtained: 6.744089 Permuted norm obtained: 6.027332
+22-Feb-2017 04:31:20
+----------------------- Trial 9 ------------------------
+Norm obtained: 6.749861 Permuted norm obtained: 6.007120
+22-Feb-2017 04:34:44
+----------------------- Trial 10 ------------------------
+Norm obtained: 6.415466 Permuted norm obtained: 5.943546
+Average norm: 6.380140 Average permuted norm: 6.162282
+Learning rates used:     0.0010    0.0020    0.0030    0.0040    0.0050    0.0060    0.0070    0.0080    0.0090    0.0100
+
+Norms obtained:     6.3425    6.2212    6.3597    6.3281    6.4003    6.3411    6.3648    6.3279    6.4433    6.3801
+
+Permuted norms obtained:     6.0216    6.0024    6.0204    6.0163    6.0882    6.2024    6.1784    6.1076    6.0275    6.1623
+

@@ -1,0 +1,481 @@
+Running driver for source indices:      1     3     4
+
+21-Feb-2017 12:07:42
+21-Feb-2017 12:07:42
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:07:42
+----------------------- Trial 1 ------------------------
+{Undefined function or variable 'numSrc'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 8)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',8,0)">line 8</a>)
+for i = 1: numSrc
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 70)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',70,0)">line 70</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',8,0)
+ica_driver
+Running driver for source indices:      1     3     4
+
+21-Feb-2017 12:08:30
+21-Feb-2017 12:08:30
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:08:30
+----------------------- Trial 1 ------------------------
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('name', '/usr/local/MATLAB/R2016b/toolbox/matlab/graphics/private/name.m', 102)" style="font-weight:bold">name</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2016b/toolbox/matlab/graphics/private/name.m',102,0)">line 102</a>)
+Cannot create output file 'plots_vary_iterations1/1_eta_0.01iterations_5000trial_1_original'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/usr/local/MATLAB/R2016b/toolbox/matlab/graphics/print.m', 85)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2016b/toolbox/matlab/graphics/print.m',85,0)">line 85</a>)
+    pj = name( pj );
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 41)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',41,0)">line 41</a>)
+    print(fig, file_name, '-dpng');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 26)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',26,0)">line 26</a>)
+plot_signals_save(S, colors, 'Source signal - ', sourceIndices, original_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 70)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',70,0)">line 70</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+opentoline('/usr/local/MATLAB/R2016b/toolbox/matlab/graphics/private/name.m',102,0)
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',41,0)
+ica_driver
+Running driver for source indices:      1     3     4
+
+21-Feb-2017 12:09:37
+21-Feb-2017 12:09:37
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:09:37
+----------------------- Trial 1 ------------------------
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 50)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',50,0)">line 50</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 70)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',70,0)">line 70</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',70,0)
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',50,0)
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+ica_driver
+Running driver for source indices:      1     3     4
+
+21-Feb-2017 12:12:14
+21-Feb-2017 12:12:14
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:12:14
+----------------------- Trial 1 ------------------------
+     1     3     4
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 51)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',51,0)">line 51</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 70)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',70,0)">line 70</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',51,0)
+ica_driver
+Running driver for source indices:      1     3     4
+
+21-Feb-2017 12:13:14
+21-Feb-2017 12:13:14
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:13:14
+----------------------- Trial 1 ------------------------
+     1     3     4
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 53)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',53,0)">line 53</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 70)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',70,0)">line 70</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+ica_driver
+Running driver for source indices:      1     3     4
+
+21-Feb-2017 12:13:56
+21-Feb-2017 12:13:56
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:13:56
+----------------------- Trial 1 ------------------------
+
+ans =
+
+           3       44000
+
+
+ans =
+
+     1     1
+
+
+ans =
+
+           3       44000
+
+     1     3     4
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 56)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',56,0)">line 56</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 70)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',70,0)">line 70</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+ica_driver
+Running driver for source indices:      1     3     4
+
+    0.8808
+
+21-Feb-2017 12:14:50
+21-Feb-2017 12:14:50
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:14:50
+----------------------- Trial 1 ------------------------
+
+ans =
+
+           3       44000
+
+
+ans =
+
+     1     1
+
+
+ans =
+
+           3       44000
+
+     1     3     4
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 56)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',56,0)">line 56</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 72)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',72,0)">line 72</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+MEvent. CASE!
+MEvent. CASE!
+ica_driver
+Running driver for source indices:      1     3     4
+
+    0.5991
+
+21-Feb-2017 12:15:33
+21-Feb-2017 12:15:33
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:15:33
+----------------------- Trial 1 ------------------------
+
+ans =
+
+           3       44000
+
+
+ans =
+
+     1     1
+
+
+ans =
+
+           3       44000
+
+     1     3     4
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 56)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',56,0)">line 56</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 74)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',74,0)">line 74</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+ica_driver()
+Running driver for source indices:      1     3     4
+
+    0.1552
+
+21-Feb-2017 12:15:53
+21-Feb-2017 12:15:53
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:15:53
+----------------------- Trial 1 ------------------------
+
+ans =
+
+           3       44000
+
+
+ans =
+
+     1     1
+
+
+ans =
+
+           3       44000
+
+     1     3     4
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 56)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',56,0)">line 56</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 74)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',74,0)">line 74</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+ica_driver()
+Running driver for source indices:      1     3     4
+
+     1
+
+           3       44000
+
+    0.1949
+
+21-Feb-2017 12:16:20
+21-Feb-2017 12:16:20
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:16:20
+----------------------- Trial 1 ------------------------
+
+ans =
+
+           3       44000
+
+
+ans =
+
+     1     1
+
+
+ans =
+
+           3       44000
+
+     1     3     4
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 56)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',56,0)">line 56</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 74)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',74,0)">line 74</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+ica_driver
+Running driver for source indices:      1     3     4
+
+     1     3
+
+     1
+
+           3       44000
+
+    0.3381
+
+21-Feb-2017 12:16:59
+21-Feb-2017 12:16:59
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:16:59
+----------------------- Trial 1 ------------------------
+
+ans =
+
+           3       44000
+
+
+ans =
+
+     1     1
+
+
+ans =
+
+           3       44000
+
+     1     3     4
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_signals_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m', 38)" style="font-weight:bold">plot_signals_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_signals_save.m',38,0)">line 38</a>)
+        text(0, y, strcat(label, num2str(originalIndices(i))));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_analysis', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m', 56)" style="font-weight:bold">ica_analysis</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_analysis.m',56,0)">line 56</a>)
+plot_signals_save(Y3, colors, 'Recovered signal - ', recoveredIndices(1, :), recovered_file_name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 75)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',75,0)">line 75</a>)
+        error_norm = ica_analysis(S, M, W, plot_dir, sourceIndices, trial, eta, iterations);
+} 
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+ica_driver
+Running driver for source indices: 21-Feb-2017 12:18:35
+21-Feb-2017 12:18:35
+---------------------------------- Number of iterations 5000 -------------------------------
+21-Feb-2017 12:18:35
+----------------------- Trial 1 ------------------------
+     1     3     4
+
+Norm obtained: 7.672880
+21-Feb-2017 12:18:48
+----------------------- Trial 2 ------------------------
+     1     4     3
+
+Norm obtained: 7.767070
+Average norm: 7.719975
+21-Feb-2017 12:18:59
+---------------------------------- Number of iterations 55000 -------------------------------
+21-Feb-2017 12:18:59
+----------------------- Trial 1 ------------------------
+     4     3     1
+
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+Norm obtained: 8.456190
+21-Feb-2017 12:21:00
+----------------------- Trial 2 ------------------------
+     4     4     1
+
+MEvent. CASE!
+MEvent. CASE!
+Norm obtained: 8.400046
+Average norm: 8.428118
+Iterations used:         5000       55000
+
+Norms obtained:     7.7200    8.4281
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_norm_graph_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_norm_graph_save.m', 7)" style="font-weight:bold">plot_norm_graph_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_norm_graph_save.m',7,0)">line 7</a>)
+    xlabel(xlabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 97)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',97,0)">line 97</a>)
+plot_norm_graph_save(iterations_vec, error_norms_vec, xlabel, ylabel, title, file_name);
+} 
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',97,0)
+opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_norm_graph_save.m',7,0)
+ica_driver
+Running driver for source indices: 21-Feb-2017 12:25:23
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_norm_graph_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_norm_graph_save.m', 7)" style="font-weight:bold">plot_norm_graph_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_norm_graph_save.m',7,0)">line 7</a>)
+    xlabel(xlabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 73)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',73,0)">line 73</a>)
+plot_norm_graph_save(X, Y, xlabel, ylabel, title, file_name);
+} 
+ica_driver
+Running driver for source indices: 21-Feb-2017 12:26:32
+{Reference to a cleared variable xlabel.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_norm_graph_save', '/home/pandian/studies/semester2/ML/hw2/ica/src/plot_norm_graph_save.m', 9)" style="font-weight:bold">plot_norm_graph_save</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/plot_norm_graph_save.m',9,0)">line 9</a>)
+    xlabel(xlabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 73)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',73,0)">line 73</a>)
+plot_norm_graph_save(X, Y, xlabel, ylabel, title, file_name);
+} 
+ica_driver
+Running driver for source indices: 21-Feb-2017 12:27:01
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ica_driver', '/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m', 75)" style="font-weight:bold">ica_driver</a> (<a href="matlab: opentoline('/home/pandian/studies/semester2/ML/hw2/ica/src/ica_driver.m',75,0)">line 75</a>)
+} 
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+MEvent. CASE!
+ica_driver
